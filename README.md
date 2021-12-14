@@ -20,7 +20,7 @@
 https://kauth.kakao.com/oauth/authorize?client_id={YOUR_REST_API}&redirect_uri={YOUR_REDIRECT_URI}&response_type=code
 ```
 
-1. Python 파일 kakao-send-me-a-message-token.py를 생성하고 다음과 같이 작성한다.
+9. Python 파일 kakao-send-me-a-message-token.py를 생성하고 다음과 같이 작성한다.
 
 ```python
 import requests
@@ -50,7 +50,7 @@ with open("kakao_token.json","w") as fp:
     json.dump(tokens, fp)
 ```
 
-* Python 파일 kakao-send-me-a-message.py를 만들어 다음과 같이 작성한다.
+10. Python 파일 kakao-send-me-a-message.py를 만들어 다음과 같이 작성한다.
 ```python
 import requests
 import json
