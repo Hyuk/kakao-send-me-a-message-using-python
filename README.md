@@ -97,7 +97,7 @@ $ python kakao-send-me-a-message.py
 * access_token은 12시간 유효하다.
 * refresh_token은 30일간 유효하다.
 
-## 이슈 (Issues to be fixed)
+### 이슈 (Issues to be fixed)
 * 바로가기 링크 및 링크 이동이 안된다.
 
 ### 기능 추가 할 것 (Features to be added)
