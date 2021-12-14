@@ -103,4 +103,5 @@ $ python kakao-send-me-a-message.py
 ### 기능 추가 할 것 (Features to be added)
 * auth token 값을 자동으로 받아와서 업데이트 해주기
 * refresh_token을 사용해서 access_token 지속적으로 업데이트 해주기
+* 주기적으로 주식, 코인, 뉴스 정보 보내주는 기능 업데이트 해주기
 
